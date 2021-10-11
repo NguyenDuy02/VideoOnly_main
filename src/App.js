@@ -1,6 +1,6 @@
-import "./App.scss";
 import "./assets/css/styles.scss";
 import "./assets/css/responsive.scss";
+import "./App.scss";
 import "./assets/fonts/AdobeGothicStd-Bold.otf";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import {Header} from './components/Header';
